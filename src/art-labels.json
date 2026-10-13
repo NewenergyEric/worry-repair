@@ -1,0 +1,150 @@
+{
+  "8": [
+    {
+      "key": "08-1",
+      "x": 215.04,
+      "y": 780.288,
+      "angle": -5,
+      "safeWidth": 215.499,
+      "safeHeight": 77.946,
+      "zh": {
+        "text": "如果 X",
+        "fontSize": 57.313,
+        "dx": -82.331,
+        "dy": 21.579,
+        "inkWidth": 160.879,
+        "inkHeight": 53.817
+      },
+      "en": {
+        "text": "If X",
+        "fontSize": 57.313,
+        "dx": -46.796,
+        "dy": 23.269,
+        "inkWidth": 83.162,
+        "inkHeight": 46.539
+      }
+    },
+    {
+      "key": "08-2",
+      "x": 1356.288,
+      "y": 888.832,
+      "angle": -7,
+      "safeWidth": 206.328,
+      "safeHeight": 77.946,
+      "zh": {
+        "text": "就做 Y",
+        "fontSize": 57.313,
+        "dx": -81.442,
+        "dy": 21.779,
+        "inkWidth": 159.675,
+        "inkHeight": 54.104
+      },
+      "en": {
+        "text": "Then Y",
+        "fontSize": 53.616,
+        "dx": -89.298,
+        "dy": 21.018,
+        "inkWidth": 175.379,
+        "inkHeight": 43.536
+      }
+    }
+  ],
+  "12": [
+    {
+      "key": "12-1",
+      "x": 1125.888,
+      "y": 116.736,
+      "angle": -4,
+      "safeWidth": 252.587,
+      "safeHeight": 54.613,
+      "zh": {
+        "text": "延续现在",
+        "fontSize": 42.667,
+        "dx": -84.672,
+        "dy": 16.064,
+        "inkWidth": 167.467,
+        "inkHeight": 40.405
+      },
+      "en": {
+        "text": "Keep going",
+        "fontSize": 39.929,
+        "dx": -110.983,
+        "dy": 11.34,
+        "inkWidth": 214.699,
+        "inkHeight": 42.085
+      }
+    },
+    {
+      "key": "12-2",
+      "x": 1251.84,
+      "y": 405.504,
+      "angle": -4,
+      "safeWidth": 235.52,
+      "safeHeight": 58.027,
+      "zh": {
+        "text": "另一条路",
+        "fontSize": 42.667,
+        "dx": -85.952,
+        "dy": 16.277,
+        "inkWidth": 168.235,
+        "inkHeight": 40.149
+      },
+      "en": {
+        "text": "Another way",
+        "fontSize": 32.118,
+        "dx": -99.968,
+        "dy": 9.218,
+        "inkWidth": 200.192,
+        "inkHeight": 32.825
+      }
+    },
+    {
+      "key": "12-3",
+      "x": 1221.12,
+      "y": 696.32,
+      "angle": -3,
+      "safeWidth": 228.693,
+      "safeHeight": 54.613,
+      "zh": {
+        "text": "放下评价",
+        "fontSize": 42.667,
+        "dx": -85.227,
+        "dy": 16.107,
+        "inkWidth": 169.173,
+        "inkHeight": 40.576
+      },
+      "en": {
+        "text": "No judgment",
+        "fontSize": 30.934,
+        "dx": -100.01,
+        "dy": 8.785,
+        "inkWidth": 194.389,
+        "inkHeight": 32.604
+      }
+    },
+    {
+      "key": "12-4",
+      "x": 195.072,
+      "y": 567.296,
+      "angle": -5,
+      "safeWidth": 116.053,
+      "safeHeight": 68.267,
+      "zh": {
+        "text": "此刻",
+        "fontSize": 42.667,
+        "dx": -42.155,
+        "dy": 16.32,
+        "inkWidth": 81.408,
+        "inkHeight": 40.491
+      },
+      "en": {
+        "text": "Now",
+        "fontSize": 42.667,
+        "dx": -49.088,
+        "dy": 15.509,
+        "inkWidth": 90.411,
+        "inkHeight": 32.213
+      }
+    }
+  ]
+}

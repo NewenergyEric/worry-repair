@@ -1,0 +1,112 @@
+/* One layout and one set of illustrations; only language-related fit changes. */
+.brand>img{width:110px;height:auto;max-width:none;margin-left:-7px}
+.brand>span.brand-cn{font-family:LifeBody,sans-serif;font-size:12px;line-height:1.4}
+.language-switch{display:inline-flex;align-items:center;justify-content:center;gap:5px;font-family:LifeBody,sans-serif;font-size:10px;border:1px solid #b9c4ad;border-radius:20px;min-height:34px;min-width:62px;padding:5px 9px;white-space:nowrap;flex-shrink:0}
+.language-switch:hover{background:#e4e8d9}.language-switch .current{font-weight:700;text-decoration:underline;text-underline-offset:4px}.language-divider{color:#89937d}
+.header-actions{gap:18px}.site-header nav{gap:27px}.modal-top>.language-switch{margin-left:auto;min-height:30px;font-size:10px}.modal-top>.icon-button{margin-left:10px;flex-shrink:0}.modal-top>span:nth-child(2){margin-left:auto;margin-right:16px}.modal-top>.language-switch+button{margin-left:10px}
+.takeaway-art>.model-art{width:100%}
+.scene-loading{position:absolute;inset:0;z-index:2}
+html[lang=en] .hero-copy h1{font-size:clamp(58px,6vw,93px);letter-spacing:-1.8px;line-height:1.17}
+html[lang=en] .hero-copy>p{max-width:470px;line-height:1.9}
+html[lang=en] .hero-eyebrow{font-size:10px;letter-spacing:1px}
+html[lang=en] .hero-note{font-size:10px}
+html[lang=en] .shop-sign strong{font-size:27px}
+html[lang=en] .sign-open{letter-spacing:1px;font-size:7px}
+html[lang=en] .intro-title h2{white-space:normal;font-size:46px;max-width:300px}
+html[lang=en] .open-sticker{bottom:-42px;right:16px;font-size:12px}
+html[lang=en] .intro-copy>p{line-height:1.85}
+html[lang=en] .section-heading h2{font-size:clamp(37px,3.8vw,56px);line-height:1.16;max-width:820px;text-wrap:balance}
+html[lang=en] .hotspot-section .section-heading>p{flex-shrink:0;white-space:normal;max-width:220px}
+html[lang=en] .hotspot{width:auto;min-width:91px;font-size:14px;margin-left:-46px;padding:6px 10px;white-space:nowrap}
+html[lang=en] .hotspot-note h3{font-size:28px;line-height:1.25}
+html[lang=en] .hotspot-note>p{line-height:1.85}
+html[lang=en] .glitch-stage h2{max-width:1000px;font-size:clamp(28px,3.7vw,56px);line-height:1.2;text-wrap:balance;padding:0 28px}
+html[lang=en] .glitch-stage>div>span{letter-spacing:3px;font-size:9px}
+html[lang=en] .glitch-section.reduced .glitch-before h2{font-size:25px}
+html[lang=en] .gallery-intro{gap:24px}
+html[lang=en] .gallery-count>span{max-width:145px;line-height:1.6;font-size:9px}
+html[lang=en] .gallery-subbar>p{line-height:1.7}
+html[lang=en] .tool-card h3{font-size:29px;line-height:1.24;min-height:108px}
+html[lang=en] .tool-card h3 span{white-space:normal}
+html[lang=en] .card-model{white-space:normal;line-height:1.6;min-height:36px;font-size:10px}
+html[lang=en] .card-bottom{gap:16px;align-items:center}
+html[lang=en] .card-bottom>span:first-child{white-space:normal;line-height:1.7;min-height:34px}
+html[lang=en] .card-arrow{flex-shrink:0}
+html[lang=en] .company-title h2{font-size:44px;line-height:1.25}
+html[lang=en] .company-title p,html[lang=en] .takeaway-copy p{line-height:1.9}
+html[lang=en] .department-soon h3{font-size:24px;max-width:230px;line-height:1.3}
+html[lang=en] .soon-sticker{font-size:11px;padding:11px 12px;max-width:103px;right:0}
+html[lang=en] .takeaway-copy h2{font-size:49px;line-height:1.2}
+html[lang=en] .footer-top>p{font-size:12px}
+html[lang=en] .footer-bottom>p{max-width:730px;line-height:1.8}
+html[lang=en] .modal-visual h2{font-size:36px;line-height:1.17;overflow-wrap:break-word}
+html[lang=en] .modal-visual h2 span{white-space:normal}
+html[lang=en] .modal-reading .modal-when{font-size:24px;line-height:1.42}
+html[lang=en] .model-name{font-size:11px;line-height:1.7}
+html[lang=en] .modal-actions{gap:12px;flex-wrap:wrap;line-height:1.6}
+html[lang=en] .modal-actions>a{font-size:10px}
+html[lang=en] .modal-tabs{gap:24px}
+html[lang=en] .note-actions{flex-wrap:wrap}
+html[lang=en] .source>a{overflow-wrap:anywhere}
+@media(max-width:1100px){
+  .header-actions{gap:12px}.site-header nav{gap:19px}
+  html[lang=en] .site-header nav{font-size:11px;gap:15px}
+  html[lang=en] .intro-title h2{font-size:38px}
+  html[lang=en] .hero-copy h1{font-size:6.1vw}
+  html[lang=en] .tool-card h3{font-size:26px;min-height:100px}
+}
+@media(max-width:760px){
+  .brand>img{width:89px;margin-left:-6px}.header-actions{gap:9px}.language-switch{font-size:10px;min-width:55px;min-height:32px;padding:5px 7px;gap:4px}
+  .modal-top{gap:7px}.modal-top>span:nth-child(2){font-size:9px;margin:0 auto}.modal-top>.language-switch{min-width:52px;padding:3px 6px}.modal-top>.icon-button{width:30px;height:30px;margin-left:0!important}
+  .model-legend{font-size:10px;gap:7px 10px;margin-bottom:14px}
+  html[lang=en] .hero-copy h1{font-size:clamp(43px,10.5vw,68px);letter-spacing:-1px;line-height:1.17}
+  html[lang=en] .hero-copy>p{font-size:11px;max-width:330px;line-height:1.85}
+  html[lang=en] .hero-copy>p br{display:none}
+  html[lang=en] .hero-eyebrow{font-size:8px;letter-spacing:.7px}
+  html[lang=en] .hero-note{font-size:8px;max-width:300px;line-height:1.6}
+  html[lang=en] .hero-topline{font-size:8px;letter-spacing:0}
+  html[lang=en] .hero-edition{font-size:6px}
+  html[lang=en] .hero-bottom>a{gap:6px;font-size:8px}
+  html[lang=en] .shop-sign strong{font-size:19px}
+  html[lang=en] .sign-open{font-size:5px}
+  html[lang=en] .intro-title h2{font-size:36px;max-width:220px}
+  html[lang=en] .open-sticker{font-size:10px;bottom:-32px;right:0}
+  html[lang=en] .intro-copy{margin-top:18px}
+  html[lang=en] .hotspot-section .section-heading{flex-wrap:wrap;gap:16px}
+  html[lang=en] .hotspot-section .section-heading>p{margin:0;max-width:none;width:100%;font-size:11px}
+  html[lang=en] .hotspot-section .section-heading>p br{display:none}
+  html[lang=en] .section-heading h2{font-size:35px;max-width:100%}
+  html[lang=en] .hotspot{min-width:80px;font-size:12px;margin-left:-40px;padding:5px 8px}
+  html[lang=en] .hotspot-note h3{font-size:25px}
+  html[lang=en] .hotspot-note>p{font-size:12px}
+  html[lang=en] .factor-switches{gap:6px;flex-wrap:wrap}
+  html[lang=en] .factor-switches button{padding:5px 10px}
+  html[lang=en] .glitch-caption{font-size:7px;gap:18px;text-align:right;line-height:1.8}
+  html[lang=en] .glitch-caption .micro{text-align:left}
+  html[lang=en] .glitch-stage h2{font-size:29px;padding:0 10px}
+  html[lang=en] .glitch-stage>div>span{font-size:7px;letter-spacing:2px}
+  html[lang=en] .glitch-section.reduced .glitch-before h2{font-size:21px}
+  html[lang=en] .glitch-section>p{font-size:11px}
+  html[lang=en] .gallery-section .section-heading{gap:12px}
+  html[lang=en] .gallery-section .section-heading h2{font-size:34px}
+  html[lang=en] .gallery-count>span{font-size:7px;max-width:73px}
+  html[lang=en] .gallery-intro{flex-shrink:0}
+  html[lang=en] .tool-card h3{font-size:28px;min-height:110px}
+  html[lang=en] .company-title h2{font-size:36px}
+  html[lang=en] .department-soon h3{font-size:21px;max-width:157px}
+  html[lang=en] .soon-sticker{font-size:9px;max-width:90px}
+  html[lang=en] .takeaway-copy h2{font-size:41px}
+  html[lang=en] .takeaway-copy .button{font-size:11px;gap:12px;padding:15px}
+  html[lang=en] .modal-visual h2{font-size:34px}
+  html[lang=en] .modal-reading .modal-when{font-size:24px}
+  html[lang=en] .modal-tabs{gap:25px}
+  html[lang=en] .modal-tabs button{font-size:12px}
+  html[lang=en] .modal-actions{font-size:11px}
+  html[lang=en] .note-actions{gap:10px}
+}
+@media(max-width:370px){
+  .header-actions{gap:6px}.nav-cta{padding:8px;gap:5px}.brand>img{width:83px}.site-header{padding:0 5vw}
+  html[lang=en] .hero-copy h1{font-size:40px}
+  html[lang=en] .gallery-section .section-heading h2{font-size:31px}
+  html[lang=en] .modal-top>span:nth-child(2){max-width:76px;text-align:center}
+}

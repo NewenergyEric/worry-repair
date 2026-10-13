@@ -1,0 +1,44 @@
+@font-face{font-family:LifeBody;src:url('/optimized/v2.5/body-security.woff2') format('woff2');font-weight:400;font-display:swap;unicode-range:U+5BC6,U+79C1,U+9632,U+9690}
+@font-face{font-family:LifeBody;src:url('/optimized/v2.5/bold-security.woff2') format('woff2');font-weight:700;font-display:swap;unicode-range:U+5BC6,U+79C1,U+9632,U+9690}
+@font-face{font-family:LifeBody;src:url('/optimized/v2.4/body-contact.woff2') format('woff2');font-weight:400;font-display:swap;unicode-range:U+54A8,U+586B,U+6635,U+79F0,U+82F1,U+9500}
+@font-face{font-family:LifeBody;src:url('/optimized/v2.4/bold-contact.woff2') format('woff2');font-weight:700;font-display:swap;unicode-range:U+54A8,U+586B,U+6635,U+79F0,U+82F1,U+9500}
+.takeaway{align-items:center}
+.takeaway-copy{min-width:0}
+.contact-art-note{display:block;text-align:center;margin:10px 0 24px;font-family:var(--display);font-size:22px;color:#63745b;transform:rotate(-3deg)}
+.contact-paper{position:relative;margin-top:28px;padding:26px;background:#fffdf4;border:1px solid #b9c4a6;border-radius:5px;box-shadow:5px 6px 0 #dce3ce;max-width:480px}
+.contact-paper-top{display:flex;align-items:center;justify-content:space-between;gap:16px;border-bottom:1px dashed #bdc6ae;padding-bottom:15px;margin-bottom:15px}
+.contact-paper-top h3{font-family:var(--display);font-size:25px;line-height:1.35}
+.contact-paper-top .micro{font-size:9px;white-space:nowrap;color:#6c7b59}
+.takeaway-copy .contact-intro{font-size:13px;line-height:1.85;margin:0 0 19px;color:#5c6d51;max-width:none}
+.contact-fields{border:0;padding:0;margin:0;min-width:0}
+.contact-fields legend{padding:0;font-size:12px;margin-bottom:10px;font-weight:700}
+.contact-methods{display:flex;gap:9px;margin-bottom:17px}
+.contact-methods label{position:relative;display:flex;align-items:center;gap:7px;border:1px solid #bac5a8;padding:9px 14px;min-height:42px;border-radius:22px;font-size:12px;cursor:pointer}
+.contact-methods label.selected{background:#e5edcf;border-color:#506842}
+.contact-methods label:has(:focus-visible){outline:2px solid #67782d;outline-offset:3px}
+.contact-methods input{position:absolute;opacity:0;width:1px;height:1px}
+.contact-label{display:flex;align-items:baseline;gap:10px;font-size:12px;font-weight:700;margin:14px 0 8px}
+.contact-label span{font-size:11px;color:#7b866e;font-weight:400}
+.contact-fields>input,.contact-fields>textarea{display:block;width:100%;border:1px solid #b6c2a3;border-radius:3px;background:#fffef9;color:var(--ink);padding:11px 12px;font-size:16px;line-height:1.5;min-height:47px}
+.contact-fields>textarea{resize:vertical;min-height:75px;max-height:200px}
+.contact-fields>input::placeholder,.contact-fields>textarea::placeholder{color:#77836b;opacity:1;font-size:13px}
+.contact-consent{display:flex;align-items:flex-start;gap:9px;margin:16px 0;font-size:12px;line-height:1.7;cursor:pointer}
+.contact-consent input{accent-color:#354d33;width:17px;height:17px;margin:2px 0 0;flex-shrink:0}
+.takeaway-copy .contact-submit{width:100%;gap:12px;min-height:50px;font-size:13px;margin-top:4px}
+.contact-trap{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+.takeaway-copy .contact-privacy{font-size:11px;line-height:1.8;margin:12px 0 0;color:#6e7a63}
+.takeaway-copy .contact-error{font-size:13px;line-height:1.8;margin:12px 0 0;color:#9a442b}
+.contact-card-link{display:flex;align-items:center;gap:7px;font-size:11px;line-height:1.6;padding:7px 0;text-align:left}
+.contact-success{padding:25px 0 16px}
+.contact-verification{margin:12px 0 16px;min-width:0}
+.contact-verification>div{min-width:0;display:flex;justify-content:center}
+.takeaway-copy .contact-verification p{font-size:12px;line-height:1.7;margin:8px 0;overflow-wrap:anywhere}
+.contact-verification .text-link{font-size:12px;display:inline;padding:0;text-decoration:underline}
+.takeaway-copy .contact-verification .verification-note{font-size:10px;color:#6e7a63}
+.verification-note a{text-decoration:underline;text-underline-offset:3px}
+.contact-stamp{display:grid;place-items:center;border:1px solid #76945f;width:52px;height:52px;border-radius:50%;background:#e5edcf;transform:rotate(-10deg);margin-bottom:16px}
+.contact-success h4{font-family:var(--display);font-size:26px;line-height:1.4;font-weight:400;margin:0 0 10px}
+.takeaway-copy .contact-success p{font-size:13px;line-height:1.85;margin:0 0 20px}
+@media(max-width:1100px){.contact-paper{padding:21px}.contact-paper-top{gap:10px}.contact-paper-top h3{font-size:22px}}
+@media(max-width:760px){.contact-paper{padding:20px;max-width:none;margin-top:25px}.contact-paper-top h3{font-size:24px}.contact-art-note{font-size:18px;margin-bottom:5px}.contact-paper .contact-submit{font-size:13px;gap:12px;padding:14px 18px}.contact-card-link{font-size:11px}.takeaway-copy .contact-intro,.takeaway-copy .contact-success p{font-size:13px}}
+@media(prefers-reduced-motion:reduce){.contact-submit:hover{transform:none}}

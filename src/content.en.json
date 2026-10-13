@@ -1,0 +1,139 @@
+{
+  "departments": [
+    [
+      "Quiet the Noise",
+      "Too many tabs open in your head",
+      "Separate thoughts, facts and things you can do.",
+      "QUIET"
+    ],
+    [
+      "Get Going",
+      "You know what to do, but cannot start",
+      "Find the missing condition and make the first step reachable.",
+      "START"
+    ],
+    [
+      "Choose a Way",
+      "Every option feels hard to let go",
+      "Look at trade-offs, exit costs and other possible routes.",
+      "CHOOSE"
+    ],
+    [
+      "Stay Connected",
+      "People can drain your battery",
+      "Say what you need and make room for boundaries.",
+      "CONNECT"
+    ],
+    [
+      "Recharge",
+      "Not broken. Just a little low on charge",
+      "Make room for your body, attention and everyday replenishment.",
+      "REST"
+    ],
+    [
+      "Loosen the Rules",
+      "Never quite good enough for yourself",
+      "Turn harsh verdicts into approaches you can adjust.",
+      "RELEASE"
+    ]
+  ],
+  "moods": [
+    "Noisy mind",
+    "Hard to start",
+    "Cannot choose",
+    "People stuff",
+    "Low battery",
+    "Too self-critical"
+  ],
+  "cards": {
+    "1": {
+      "title": "Not every thought|needs a reply",
+      "model": "Cognitive Defusion",
+      "kind": "Reflective practice",
+      "when": "Before you even begin, your brain has screened a whole failure documentary. Your name fills the credits.",
+      "mechanism": "Thoughts can affect you without automatically being facts or instructions. Defusion means noticing, \"I am having a thought,\" and leaving a little space between that thought and your next action. You do not have to chase negative thoughts away or first believe you will succeed.",
+      "story_title": "Quitting before the opening scene",
+      "story": "Zhou wants to share an idea in a meeting. \"I will definitely mess this up,\" says his mind. He tries, \"I notice my brain is predicting that I will mess this up.\" He is still nervous, but the prediction no longer has to be the outcome. He writes down his opening sentence.",
+      "steps": [
+        [
+          "Write the subtitle",
+          "Write down one recurring thought. No argument needed yet."
+        ],
+        [
+          "Add an opening line",
+          "Put \"I notice I am thinking that...\" in front of it and read it slowly."
+        ],
+        [
+          "Choose your own next move",
+          "Let the thought stay nearby while you take one small action connected to something you care about."
+        ]
+      ],
+      "output": "The thought is: ______. Even with it here, I can first: ______.",
+      "boundary": "Real danger, humiliation or unfair treatment calls for practical protection and support. Defusion does not mean ignoring these things. Stop if the practice makes you feel worse.",
+      "next": "Explore the full tool-card collection on the official website for more ideas.",
+      "punch": "Your brain can run the commentary. You can still choose a direction.",
+      "unique": "Make space between a thought and an action"
+    },
+    "8": {
+      "title": "Do not wait to remember.|Give action a switch.",
+      "model": "Implementation Intentions / If–Then Plan",
+      "kind": "Behavior strategy",
+      "when": "\"Whenever I have time\" sounds wonderfully free. In practice, it is a parcel with no delivery address.",
+      "mechanism": "Link a recognizable situation to a specific action in advance: if X happens, then I will do Y. This reduces the need to decide again in the moment. It works on the assumption that you endorse the goal and can do the action in that situation.",
+      "story_title": "Put down the cup. Open the notes.",
+      "story": "Man keeps forgetting to record project decisions. Instead of \"find time every day,\" he tries: \"When I return to my desk after lunch and put down my water cup, I will write one decision confirmed today.\" The cue is recognizable and the action small. If afternoons are always full of meetings, he will choose another trigger.",
+      "steps": [
+        [
+          "Choose a familiar switch",
+          "Use a specific time, place or previous action, rather than \"when I feel ready.\""
+        ],
+        [
+          "Attach one action",
+          "Write \"If..., then I will...\" with one behavior you can do immediately."
+        ],
+        [
+          "Move the switch if needed",
+          "If you keep missing the cue, choose a more reliable, visible situation."
+        ]
+      ],
+      "output": "If: ______, then I will: ______. I need to prepare: ______.",
+      "boundary": "Do not install a dozen switches at once. Plans can change with the environment. Missing an action is information for adjustment, not proof that you broke your word.",
+      "next": "Explore the full tool-card collection on the official website for more ideas.",
+      "punch": "A little less \"we'll see.\" One more visible switch.",
+      "unique": "Link one concrete situation to one concrete action"
+    },
+    "12": {
+      "title": "Life was never|single choice.",
+      "model": "Odyssey Plans",
+      "kind": "Life design tool",
+      "when": "You imagine one correct future hidden somewhere, with points deducted for every detour.",
+      "mechanism": "Sketch three genuinely different possible paths: continuing your current direction; another direction if that path disappeared; and a direction you would explore with other people's judgments set aside for a moment. The original approach often looks five years ahead. A first attempt can use broad outlines, followed by low-cost experiments to gather information.",
+      "story_title": "Three futures do not require three copies of you",
+      "story": "Considering a career change, Zhou sketches three routes: a new role in her current industry, a move into education, and creative work alongside her main job. She does not immediately pick a winner. Instead, she lists missing information for each. A conversation with someone in the field reveals everyday work she had not imagined.",
+      "steps": [
+        [
+          "Draw three different routes",
+          "Give each a name and a few possible scenes from everyday life, rather than three similar résumés."
+        ],
+        [
+          "Look at resources and feelings",
+          "What support would each need? Where are you curious? Where are you worried?"
+        ],
+        [
+          "Investigate one question",
+          "Choose a conversation, experience or small project that adds one real piece of information."
+        ]
+      ],
+      "output": "Three routes: ______ / ______ / ______. The question I will investigate first: ______.",
+      "boundary": "This is exploration, not prediction. Keep care responsibilities, financial circumstances and other constraints in the picture; imagination cannot skip them.",
+      "next": "Explore the full tool-card collection on the official website for more ideas.",
+      "punch": "You can keep a few versions of the future. No need to delete them yet.",
+      "unique": "Sketch three distinct paths and one question to investigate"
+    }
+  },
+  "sourceNotes": {
+    "S01": "2020 guide to coping with everyday stress. Conceptual reference for defusion and grounding practices.",
+    "S08": "2006 research review on implementation intentions: linking a situation with a specific response in advance.",
+    "S12": "Three different life paths and prototype experiments, kept as exploration rather than prediction."
+  }
+}

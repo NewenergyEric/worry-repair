@@ -1,0 +1,6 @@
+@font-face{font-family:LifeBody;src:url('/optimized/v2.3/body-latin.woff2') format('woff2');font-weight:400;font-display:swap;unicode-range:U+0-2FFF,U+4E2D}
+@font-face{font-family:LifeBody;src:url('/optimized/v2.3/body-cjk.woff2') format('woff2');font-weight:400;font-display:swap;unicode-range:U+3000-4E2C,U+4E2E-10FFFF}
+@font-face{font-family:LifeBody;src:url('/optimized/v2.3/bold-latin.woff2') format('woff2');font-weight:700;font-display:swap;unicode-range:U+0-2FFF,U+4E2D}
+@font-face{font-family:LifeBody;src:url('/optimized/v2.3/bold-cjk.woff2') format('woff2');font-weight:700;font-display:swap;unicode-range:U+3000-4E2C,U+4E2E-10FFFF}
+@font-face{font-family:LifeDisplay;src:url('/optimized/v2.3/display-latin.woff2') format('woff2');font-weight:400;font-display:swap;unicode-range:U+0-2FFF,U+4E2D}
+@font-face{font-family:LifeDisplay;src:url('/optimized/v2.3/display-cjk.woff2') format('woff2');font-weight:400;font-display:swap;unicode-range:U+3000-4E2C,U+4E2E-10FFFF}

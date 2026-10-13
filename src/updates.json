@@ -1,0 +1,25 @@
+[
+  {
+    "id": "2026-10-13-first-open-door",
+    "date": "2026-10-13",
+    "version": "0.1.0",
+    "zh": {
+      "title": "在 GitHub，给下一次回来留一扇门。",
+      "summary": "一个关于“有空再做”的小故事，从今天可以试的一步开始。",
+      "items": [
+        "中英文介绍与横版短片，陪你从午饭后的一张空白便签找起。",
+        "三张双语示例卡可以在本地运行；完整 24 张卡继续在官网阅读。",
+        "在 GitHub 关注版本更新，或把版本订阅加进常用的阅读器。"
+      ]
+    },
+    "en": {
+      "title": "An open door on GitHub.",
+      "summary": "A little story about “sometime”, and one small step you could try today.",
+      "items": [
+        "English and Chinese introductions and landscape films begin with a blank note after lunch.",
+        "Three bilingual sample cards can run locally; the full 24-card collection stays on the official website.",
+        "Follow GitHub releases, or add the release feed to your usual reader."
+      ]
+    }
+  }
+]
