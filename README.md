@@ -12,9 +12,9 @@ That is why I started Worry Repair. I want to keep gathering the questions about
 
 **[Visit Worry Repair →](https://anxietyfixer.lifeunltdco.com/?lang=en)** · [中文](README.zh-CN.md)
 
-https://github.com/user-attachments/assets/482f7f90-c711-4eb6-b43b-5229460b4964
+[![Step inside Worry Repair, find a card and try one small action — animated introduction](docs/media/intro-en-preview.gif)](https://github.com/user-attachments/assets/482f7f90-c711-4eb6-b43b-5229460b4964)
 
-[Watch the landscape film](public/media/intro-en-landscape.mp4)
+[Watch the full 68-second film](https://github.com/user-attachments/assets/482f7f90-c711-4eb6-b43b-5229460b4964)
 
 ## A cup on the desk. A place to start.
 
@@ -32,7 +32,13 @@ That is what the cards are here for: helping you turn a thought into something y
 
 Another day, a conversation may keep replaying in your head. Or you may be looking at two possible futures and struggling to choose. Start with that moment. The full website has 24 cards to help you explore a different way of thinking about it, each with an everyday example and a short practice.
 
+![Three cards from the film: Not every thought needs a reply; Start with five minutes; Say no without a whole essay](docs/media/three-cards-en.jpg)
+
 There is no reading order to keep up with. Spend a little time with the card you need, write a next step if it helps, and go back to your day. If you want to return to it, put it in **My Drawer**. Your notes and saved cards stay in this browser.
+
+Some questions need more room. In **Life was never single choice**, you can sketch three possible futures and choose one small way to learn more about them.
+
+![The Life was never single choice card on the website: an illustration of three paths beside the idea and an everyday example](docs/media/life-paths-en.jpg)
 
 ## Start a new project at LIFE Unlimited.
 

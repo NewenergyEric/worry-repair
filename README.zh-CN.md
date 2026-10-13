@@ -12,9 +12,9 @@
 
 **[走进烦恼维修部 →](https://anxietyfixer.lifeunltdco.com/?lang=zh)** · [English](README.md)
 
-https://github.com/user-attachments/assets/88c90de9-24b1-4079-8316-1a94eca8d267
+[![走进烦恼维修部，找一张卡，再试一个小动作——自动循环的介绍片段](docs/media/intro-zh-preview.gif)](https://github.com/user-attachments/assets/88c90de9-24b1-4079-8316-1a94eca8d267)
 
-[播放横版短片](public/media/intro-zh-landscape.mp4)
+[观看完整 68 秒短片](https://github.com/user-attachments/assets/88c90de9-24b1-4079-8316-1a94eca8d267)
 
 ## 水杯放下了，事情也有了一个开始。
 
@@ -32,7 +32,13 @@ https://github.com/user-attachments/assets/88c90de9-24b1-4079-8316-1a94eca8d267
 
 也许另一天，一段对话总在脑中重播。也许你面前有两条路，想了很久还是选不出来。完整网页里有 24 张工具卡，每张都放着一个想法、一个日常例子和一份小练习，陪你从眼前这件事找起。
 
+![短片第 20 秒的三张卡：脑内弹幕不必条条回复、先做五分钟不用先爱上它、说“不”不必附赠一篇论文](docs/media/three-cards-zh.jpg)
+
 不用按顺序读，也没有要赶上的进度。翻一张此刻需要的，愿意的话写下自己的下一步，然后回到生活里。想留下的办法，可以放进“我的抽屉”，下次再来。笔记和收藏只留在当前浏览器。
+
+有些问题，需要先给可能性留点空间。比如“**人生，又不是单选题**”：先画出三条不同的路，再用一个小尝试，多了解一点每条路上的真实生活。
+
+![官网“人生，又不是单选题”卡片：三条不同人生路径的插画，旁边是方法说明和日常例子](docs/media/life-paths-zh.jpg)
 
 ## 来人生无限公司，开展一个“新项目”。
 

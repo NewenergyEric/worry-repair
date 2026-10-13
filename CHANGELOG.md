@@ -1,5 +1,11 @@
 # Changelog / 更新记录
 
+## On main after 0.1.0 · 2026-10-13
+
+The creator's story now opens both READMEs. A small looping introduction and still images let you meet the cards as you read: three everyday starting points, and a reminder that life was never single choice. The complete films are still one link away.
+
+中英文介绍现在从创作者和身边人的故事讲起。轻量循环短片与配图陪你边读边逛：先看看三张日常工具卡，再给“人生，又不是单选题”留一点空间。完整影片仍可通过链接观看。
+
 ## 0.1.0 · 2026-10-13
 
 It starts with a familiar afternoon: a cup on the desk, a blank note and something you keep meaning to do. The first GitHub release introduces Worry Repair through that small moment, in English and Chinese.
