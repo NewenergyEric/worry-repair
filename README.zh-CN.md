@@ -12,9 +12,9 @@
 
 **[走进烦恼维修部 →](https://anxietyfixer.lifeunltdco.com/?lang=zh)** · [English](README.md)
 
-[![走进烦恼维修部，找一张卡，再试一个小动作——自动循环的介绍片段](docs/media/intro-zh-preview.gif)](https://github.com/user-attachments/assets/88c90de9-24b1-4079-8316-1a94eca8d267)
+![走进烦恼维修部，找一张卡，再试一个小动作——自动循环的介绍片段](docs/media/intro-zh-preview.gif)
 
-[观看完整 68 秒短片](https://github.com/user-attachments/assets/88c90de9-24b1-4079-8316-1a94eca8d267)
+[观看完整 68 秒短片](public/media/intro-zh-landscape.mp4)
 
 ## 水杯放下了，事情也有了一个开始。
 

@@ -12,9 +12,9 @@ That is why I started Worry Repair. I want to keep gathering the questions about
 
 **[Visit Worry Repair →](https://anxietyfixer.lifeunltdco.com/?lang=en)** · [中文](README.zh-CN.md)
 
-[![Step inside Worry Repair, find a card and try one small action — animated introduction](docs/media/intro-en-preview.gif)](https://github.com/user-attachments/assets/482f7f90-c711-4eb6-b43b-5229460b4964)
+![Step inside Worry Repair, find a card and try one small action — animated introduction](docs/media/intro-en-preview.gif)
 
-[Watch the full 68-second film](https://github.com/user-attachments/assets/482f7f90-c711-4eb6-b43b-5229460b4964)
+[Watch the full 68-second film](public/media/intro-en-landscape.mp4)
 
 ## A cup on the desk. A place to start.
 
