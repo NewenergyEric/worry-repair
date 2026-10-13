@@ -1,18 +1,6 @@
 # Worry Repair · LIFE Unlimited
 
-**For the days when you keep thinking about something, but cannot find a way to begin.**
-
-It is after lunch. You put your cup on the desk and open yesterday's note: “Write this down when I have time.” The page is still blank. The afternoon is already filling up.
-
-Worry Repair is a place to pause at a moment like this. Bring the thing that is on your mind, find an idea that fits, and try one small step in your own day.
-
-**[Find a place to begin →](https://anxietyfixer.lifeunltdco.com/?lang=en)** · [中文](README.zh-CN.md)
-
-https://github.com/user-attachments/assets/482f7f90-c711-4eb6-b43b-5229460b4964
-
-[Watch the landscape film](public/media/intro-en-landscape.mp4)
-
-## This began with the people around me.
+**This began with the people around me.**
 
 My friends, clients and collaborators are actively using AI. As they explore what it makes possible, they are also dealing with pressure from the world around them, the demands of everyday life, and the pace at which AI itself is changing. All of this can leave them feeling anxious, uncertain or unsure where to turn next.
 
@@ -22,7 +10,15 @@ Our time may be finite. With AI and creativity, life can feel full of endless po
 
 That is why I started Worry Repair. I want to keep gathering the questions about people and life that I, my friends and my clients have encountered, alongside ideas and stories that might help. I hope you find something here that is useful to you.
 
+**[Visit Worry Repair →](https://anxietyfixer.lifeunltdco.com/?lang=en)** · [中文](README.zh-CN.md)
+
+https://github.com/user-attachments/assets/482f7f90-c711-4eb6-b43b-5229460b4964
+
+[Watch the landscape film](public/media/intro-en-landscape.mp4)
+
 ## A cup on the desk. A place to start.
+
+It is after lunch. You put your cup on the desk and open yesterday's note: “Write this down when I have time.” The page is still blank. The afternoon is already filling up.
 
 You find a card about giving an action a recognisable starting point. Beside the idea is an ordinary example:
 
