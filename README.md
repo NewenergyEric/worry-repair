@@ -12,6 +12,16 @@ https://github.com/user-attachments/assets/482f7f90-c711-4eb6-b43b-5229460b4964
 
 [Watch the landscape film](public/media/intro-en-landscape.mp4)
 
+## This began with the people around me.
+
+My friends, clients and collaborators are actively using AI. As they explore what it makes possible, they are also dealing with pressure from the world around them, the demands of everyday life, and the pace at which AI itself is changing. All of this can leave them feeling anxious, uncertain or unsure where to turn next.
+
+I found myself returning to some of the most basic knowledge and stories about being human. I wanted to turn them into useful resources: things we could read, refer to and bring back into our own lives.
+
+Our time may be finite. With AI and creativity, life can feel full of endless possibilities. Those possibilities also bring difficulties, setbacks, anxiety and questions that take time to work through.
+
+That is why I started Worry Repair. I want to keep gathering the questions about people and life that I, my friends and my clients have encountered, alongside ideas and stories that might help. I hope you find something here that is useful to you.
+
 ## A cup on the desk. A place to start.
 
 You find a card about giving an action a recognisable starting point. Beside the idea is an ordinary example:
@@ -28,9 +38,11 @@ Another day, a conversation may keep replaying in your head. Or you may be looki
 
 There is no reading order to keep up with. Spend a little time with the card you need, write a next step if it helps, and go back to your day. If you want to return to it, put it in **My Drawer**. Your notes and saved cards stay in this browser.
 
-## Leave a little room for next time.
+## Start a new project at LIFE Unlimited.
 
-Worry Repair is the first open door at LIFE Unlimited. I will keep adding to this place: more useful examples, clearer exercises and new ways into familiar problems. Come back when life gets stuck again. To hear when something new is ready, choose **Watch → Custom → Releases** at the top of this repository, or add the [release feed](https://github.com/NewenergyEric/worry-repair/releases.atom) to your reader.
+Worry Repair is the first open door at LIFE Unlimited. You are welcome to come in and start a “new project” of your own. Begin with an experience, a question or something you are curious about. With [eric-jiangzhishi-skill · Making Sense Together](https://github.com/NewenergyEric/eric-jiangzhishi-skill), you can explore stories worth telling, organise your observations and knowledge about people and life, and shape them into something others can read and share.
+
+I will keep adding to this place: more useful examples, clearer exercises and new ways into familiar problems. Come back when life gets stuck again, or when you have something of your own to share. To hear when something new is ready, choose **Watch → Custom → Releases** at the top of this repository, or add the [release feed](https://github.com/NewenergyEric/worry-repair/releases.atom) to your reader.
 
 **[Try one small step →](https://anxietyfixer.lifeunltdco.com/?lang=en)** · [What's new](https://github.com/NewenergyEric/worry-repair/releases) · [Follow the creator](https://github.com/NewenergyEric)
 
@@ -38,6 +50,6 @@ Worry Repair is the first open door at LIFE Unlimited. I will keep adding to thi
 
 *For contributors:* this repository contains the website code and three bilingual sample cards. Visit the website for the full collection shown in the film. [Run the demo](docs/installation-checklist.md), [help improve it](CONTRIBUTING.md), or read the [maintenance guide](docs/maintenance.md).
 
-Code: [MIT](LICENSE). Content and finished films: [separate terms](CONTENT-LICENSE.md). [Font notices](THIRD-PARTY-NOTICES.md) · [Sharing videos](docs/media.md). PDFs and editable production files remain private.
+Code: [MIT](LICENSE). Content and finished films: [separate terms](CONTENT-LICENSE.md). [Font notices](THIRD-PARTY-NOTICES.md) · [Sharing videos](docs/media.md). PDFs, source files for the full card collection, and editable production projects remain private.
 
 *Everyday reflection and practice; not a substitute for professional diagnosis or treatment.*
